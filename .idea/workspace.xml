@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad11c142-48dc-47c8-b9df-f3ad185d3abd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/remad.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sfdemo1/SolutionFinMedianSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,14 +27,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="remad.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="remad.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/remad.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="10" selection-start-column="10" selection-end-column="10" />
+                <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="说明文档.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/说明文档.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="SolutionFinMedianSortedArrays.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sfdemo1/SolutionFinMedianSortedArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -82,6 +97,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/sfdemo1/StringSLength.java" />
         <option value="$PROJECT_DIR$/remad.md" />
+        <option value="$PROJECT_DIR$/src/sfdemo1/SolutionFinMedianSortedArrays.java" />
       </list>
     </option>
   </component>
@@ -97,10 +113,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="118" />
-    <option name="y" value="65" />
-    <option name="width" value="1090" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="438" />
+    <option name="y" value="-18" />
+    <option name="width" value="875" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -155,7 +171,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SolutionFinMedianSortedArrays">
+    <configuration name="SolutionFinMedianSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sfdemo1.SolutionFinMedianSortedArrays" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sfdemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="StringSLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sfdemo1.StringSLength" />
       <module name="test" />
@@ -208,8 +235,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.StringSLength" />
+      <item itemvalue="Application.SolutionFinMedianSortedArrays" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SolutionFinMedianSortedArrays" />
         <item itemvalue="Application.StringSLength" />
       </list>
     </recent_temporary>
@@ -224,15 +256,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588829862155</updated>
-      <workItem from="1588829865257" duration="3582000" />
+      <workItem from="1588829865257" duration="5564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3582000" />
+    <option name="totallyTimeSpent" value="5564000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1104" y="27" width="875" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
@@ -244,12 +276,12 @@
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.24593717" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.41416892" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.24593717" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23667377" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.2991914" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -327,9 +359,19 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/说明文档.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sfdemo1/SolutionFinMedianSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
         </state>
       </provider>
     </entry>

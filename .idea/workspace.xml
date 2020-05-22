@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad11c142-48dc-47c8-b9df-f3ad185d3abd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sfdemo1/demo7/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sfdemo1/demo7/ProducerConsmerFutureQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sfdemo1/demo7/ProducerConsumerFutureDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sfdemo1/demo7/ProducerFuture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sfdemo1/demo6/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sfdemo1/demo6/Producer.java" afterDir="false" />
-    </list>
+    <list default="true" id="ad11c142-48dc-47c8-b9df-f3ad185d3abd" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sfdemo1/demo7/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <state relative-caret-position="575">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#254#255#0" expanded="true" />
@@ -161,7 +154,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="42" />
     <option name="y" value="260" />
     <option name="width" value="1936" />
@@ -231,7 +224,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590128821925" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590133828016" />
     <property name="last_opened_file_path" value="E:/合并代码/im-backend-app" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -383,23 +376,22 @@
       <workItem from="1589787014128" duration="5242000" />
       <workItem from="1589938682924" duration="8408000" />
       <workItem from="1589959303041" duration="1199000" />
-      <workItem from="1590023924333" duration="17747000" />
+      <workItem from="1590023924333" duration="18517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57930000" />
+    <option name="totallyTimeSpent" value="58700000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="42" y="260" width="1936" height="1056" extended-state="1" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20042644" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20042644" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.41416892" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -408,7 +400,7 @@
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32962137" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.27772126" />
-      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.6113937" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3975501" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -850,8 +842,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sfdemo1/demo7/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        <state relative-caret-position="575">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#254#255#0" expanded="true" />

@@ -3,6 +3,7 @@ package sfdemo1.demo6;
 import java.util.Date;
 
 public class Producer implements Runnable {
+
     private ProducerConsumerQueue<User> queue;
 
     public Producer(ProducerConsumerQueue<User> queue) {
